@@ -27,5 +27,5 @@ Ticker:
 ```
 DWDP
 ```
-where under this research parameter, we'll quickly be directed to the Reuters Finance business
+where under this research parameter, we'll quickly be directed to the Reuters business
 description profile for our chosen stock.
